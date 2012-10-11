@@ -1,0 +1,21 @@
+#Eclipse Stuff
+
+eclipse
+.classpath
+.project
+.settings
+
+#Play specific
+
+test
+tmp
+logs
+test-result
+lib
+test
+
+#Pid files
+
+server.pid
+
+
